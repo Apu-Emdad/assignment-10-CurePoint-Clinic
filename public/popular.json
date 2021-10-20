@@ -1,0 +1,23 @@
+[
+  {
+    "key": "004",
+    "name": "Dental Care",
+    "description": "Pain-Free Dental Care in Bergen County. No Shots, No Drills - Just Results! No Shots! No Drills! No Pain! Highlights: Offer Comprehensive Dental Care, Consultation Available.",
+    "price": 50,
+    "img": "https://image.freepik.com/free-photo/dentists-treat-patients-teeth_1150-19637.jpg"
+  },
+  {
+    "key": "005",
+    "name": "General Sugery",
+    "description": "Let The Doctors Clinic General Surgery team help you live a healthy life. Call our Salmon Medical Center in Silverdale to learn more.",
+    "price": 55,
+    "img": "https://image.freepik.com/free-photo/female-patient-undergoing-surgery_7502-8404.jpg"
+  },
+  {
+    "key": "006",
+    "name": "Ear, Nose, Throat",
+    "description": "IThe oldest medical specialty in the U.S., Otolaryngology deals with disorders of the ear, nose and throat, which include the head and neck.",
+    "price": 55,
+    "img": "https://image.freepik.com/free-photo/male-medical-figure-with-sore-throat-coronavirus-cells_1048-12003.jpg"
+  }
+]

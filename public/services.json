@@ -1,0 +1,65 @@
+[
+  {
+    "key": "001",
+    "name": "Medicine and Health",
+    "description": "Prevent work injuries, reduce workers comp costs & ensure occupational health compliance. Construction projects nationwide rely on our onsite health and safety services! Onsite Visits. Schedule A Demonstration. Telemed. Types: telehealth, corporate healthcare, onsite clinic.",
+    "price": 50,
+    "img": "https://image.freepik.com/free-vector/medicine-flat-design_1212-670.jpg"
+  },
+  {
+    "key": "002",
+    "name": "Cardiology",
+    "description": "Connect Online for Quality Preventative Care from Top Doctors. Safe, convenient, low-cost option for medical attention and services. Easy & Private. Primary Care Doctors. Board-Certified Doctors. Convenient Access. Connect to Doctors Online.",
+    "price": 55,
+    "img": "https://image.freepik.com/free-photo/elderly-woman-doctor-appointment-modern-private-clinic-while-she-sitts-hospital-bed-physician-is-listening-her-heart-beat-health-care-medicine-treatment-specialist-consultation_482257-4267.jpg"
+  },
+  {
+    "key": "003",
+    "name": "Children Care",
+    "description": "A philosophy that embraces low intervention while delivering a high quality of care. Tribeca Pediatrics has served families for over 25 years. Meet The Team. See Locations. View Our Story. Highlights: 24/7 Accessibility Available, Same-Day Appointments Available.",
+    "price": 55,
+    "img": "https://image.freepik.com/free-photo/happy-doctor-holding-clipboard-with-patients_1098-2176.jpg"
+  },
+  {
+    "key": "004",
+    "name": "Dental Care",
+    "description": "Pain-Free Dental Care in Bergen County. No Shots, No Drills - Just Results! No Shots! No Drills! No Pain! Highlights: Offer Comprehensive Dental Care, Consultation Available.",
+    "price": 50,
+    "img": "https://image.freepik.com/free-photo/dentists-treat-patients-teeth_1150-19637.jpg"
+  },
+  {
+    "key": "005",
+    "name": "General Sugery",
+    "description": "Let The Doctors Clinic General Surgery team help you live a healthy life. Call our Salmon Medical Center in Silverdale to learn more.",
+    "price": 55,
+    "img": "https://image.freepik.com/free-photo/female-patient-undergoing-surgery_7502-8404.jpg"
+  },
+  {
+    "key": "006",
+    "name": "Ear, Nose, Throat",
+    "description": "IThe oldest medical specialty in the U.S., Otolaryngology deals with disorders of the ear, nose and throat, which include the head and neck.",
+    "price": 55,
+    "img": "https://image.freepik.com/free-photo/male-medical-figure-with-sore-throat-coronavirus-cells_1048-12003.jpg"
+  },
+  {
+    "key": "007",
+    "name": "Nephrology",
+    "description": "Our clinic provides diagnosis and specialized services for patients with hypertension, renal failure, and other kidney problems.Our clinic provides diagnosis and specialized services for patients with hypertension, renal failure, and other kidney problems.",
+    "price": 50,
+    "img": "https://image.freepik.com/free-vector/kidney-day-illustration_23-2148836431.jpg"
+  },
+  {
+    "key": "008",
+    "name": "Orthopedics",
+    "description": "The Orthopaedic Center provides comprehensive orthopaedic care in the Hunstville area. Learn more and call to schedule your appointment today!The Orthopaedic Center provides comprehensive orthopaedic care in the Hunstville area. Learn more and call to schedule your appointment today!",
+    "price": 55,
+    "img": "https://image.freepik.com/free-photo/care-accessory-pad-fitness-ache_1088-773.jpg"
+  },
+  {
+    "key": "009",
+    "name": "Oncology",
+    "description": "The Care Oncology Clinic is undertaking a study into and providing cancer treatments that may complement and enhance standard of care therapy.The Care Oncology Clinic is undertaking a study into and providing cancer treatments that may complement and enhance standard of care therapy.",
+    "price": 55,
+    "img": "https://image.freepik.com/free-photo/middle-aged-woman-with-skin-cancer-talking-with-her-doctor_23-2148988519.jpg"
+  }
+]
