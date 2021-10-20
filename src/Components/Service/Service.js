@@ -14,7 +14,7 @@ const Service = (props) => {
     history.push(url);
   };
   return (
-    <div className="course bg-dark">
+    <div className="course bg-dark col-sm-12 col-md-3">
       <img src={img} alt="" className="img-fluid" /> <br />
       <h5 className="text-light ">{name}</h5>
       <button

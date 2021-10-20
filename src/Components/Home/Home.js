@@ -49,9 +49,9 @@ const Home = () => {
         <h1 className="text-warning text-center">Our Popular Services</h1>
 
         <div>
-          <div className="row row-cols-2 row-cols-md-3 g-4">
+          <div className="row   g-4">
             {popular.map((p) => (
-              <div className="col">
+              <div className="col-sm-12 col-md-4">
                 <div className=" course bg-dark h-100">
                   <img src={p.img} alt="" className="img-fluid" /> <br />
                   <h5 className="text-light ">{p.name}</h5>
