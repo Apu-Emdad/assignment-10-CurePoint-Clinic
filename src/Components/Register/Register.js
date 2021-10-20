@@ -26,8 +26,11 @@ const Register = () => {
         onBlur={getPassword}
       />{" "}
       <br />
-      <button className="d-block mx-auto" onClick={registerWithEmail}>
-        clickme
+      <button
+        className="d-block mx-auto btn-danger"
+        onClick={registerWithEmail}
+      >
+        Register
       </button>
     </div>
   );

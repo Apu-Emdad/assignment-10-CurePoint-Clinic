@@ -33,12 +33,17 @@ const Home = () => {
                 <span className="text-danger fw-bold fs-1">SAFE</span>
               </h6>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-                quidem a illum voluptates asperiores eum sint ullam alias
-                doloribus saepe ipsam impedit autem deleniti cumque incidunt
-                itaque ab, at repudiandae nam tempore inventore nesciunt. Magnam
-                corrupti eaque ab consequuntur sit quam quo recusandae quas,
-                asperiores saepe minima magni odit cum.
+                A class of medical instruction in which patients are examined
+                and discussed. 2 : a group meeting devoted to the analysis and
+                solution of concrete problems or to the acquiring of specific
+                skills or knowledge writing clinics golf clinics. 3a : a
+                facility (as of a hospital) for diagnosis and treatment of
+                outpatients. a class of medical instruction in which patients
+                are examined and discussed. 2 : a group meeting devoted to the
+                analysis and solution of concrete problems or to the acquiring
+                of specific skills or knowledge writing clinics golf clinics. 3a
+                : a facility (as of a hospital) for diagnosis and treatment of
+                outpatients.
               </p>
             </div>
           </div>

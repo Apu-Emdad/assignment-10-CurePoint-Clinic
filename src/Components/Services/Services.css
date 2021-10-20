@@ -1,7 +1,4 @@
-.course-container {
-  display: grid;
-  grid-gap: 50px;
-  grid-template-columns: 1fr 1fr 1fr;
-  border: 2px solid goldenrod;
-  padding: 10px;
+.service-container {
+  width: 100%;
+  overflow-x: hidden;
 }
